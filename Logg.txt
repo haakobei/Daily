@@ -1,0 +1,7 @@
+
+
+Logg
+
+24.jan
+- Make a git repo for project
+- Upload this logg
