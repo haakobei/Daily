@@ -5,3 +5,7 @@ Logg
 - Made a git repo for project
 - Uploaded this logg
 - Made adjustments
+
+25.jan
+-Started a small five in a row - project
+  I plan to make a simple textbased UI, but later expand to GUI in javafx
