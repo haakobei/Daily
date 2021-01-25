@@ -3,7 +3,7 @@ public class Player{
   private int score;
 
   public Player(String name){
-    name = name;
+    this.name = name;
     score = 0;
   }
 
